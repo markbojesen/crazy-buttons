@@ -1,0 +1,13 @@
+.btn-crazy {
+  position: absolute;
+  top: 30px;
+  left: 35%;
+  width: 30%;
+  transition: .2 ease all;
+  text-align: center;
+}
+
+.btn-random {
+  background: goldenrod;
+  color: #fff;
+}
