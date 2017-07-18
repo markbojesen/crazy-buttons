@@ -1,5 +1,6 @@
-#crazy-buttons
-Tiny JavaScript project.
+# crazy-buttons.
+
+## Tiny JavaScript project.
 
 4 lively buttons that are hard to click combining JavaScript and some CSS.
 
